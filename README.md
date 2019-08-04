@@ -1,5 +1,5 @@
 ### EDUCATION BACKGROUD
-#### <font color=Blue>Institute of Computing Technology, Chinese Academy of Sciences</font> (Beijing, China)
+#### [[#f03c15]]Institute of Computing Technology, Chinese Academy of Sciences</font> (Beijing, China)
 * Master in Computer Architecture              (Expected May 2020)
 * **Relevant Courses:** High Performance Computing and Applications(88), Advanced Operating System Tutorial (85), Advanced Computer
 Architecture(85), Advanced Artificial Intelligence(81)
