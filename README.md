@@ -1,5 +1,5 @@
 ## EDUCATION BACKGROUD
-Institute of Computing Technology, Chinese Academy of Sciences （Beijing, China） 
+*Institute of Computing Technology, Chinese Academy of Sciences （Beijing, China） 
 
 Master in Computer Architecture Expected May 2020
 
