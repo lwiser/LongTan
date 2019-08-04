@@ -1,13 +1,15 @@
 ### EDUCATION BACKGROUD
 #### <font color=Blue>**Institute of Computing Technology, Chinese Academy of Sciences**</font> (Beijing, China)
-* Master in Computer Architecture              Expected May 2020 
+* Master in Computer Architecture              (Expected May 2020)
 * **Relevant Courses:** High Performance Computing and Applications(88), Advanced Operating System Tutorial (85), Advanced Computer
 Architecture(85), Advanced Artificial Intelligence(81)
+
 #### **University of Science and Technology Beijing**            (Beijing, China) 
-* Bachelor in Internet of Things                     **Aug 2013 - Jun 2017**
+* Bachelor in Internet of Things                     (Aug 2013 - Jun 2017)
 * Overall GPA: **3.69/4.00**      Academic Ranking: **7/68**
 * **Relevant Courses:** Complex Analysis and Integral Transform(95), Mathematical Analysis (91), Discrete Mathematics(87), Principle of
 Microcomputer and Interface Technology (97), Digital Electronic Technology (94), Computer Network(92), Data Structure (88)
+
 ### SKILLS & INTERESTS
 * **Interests:** Distributed Systems, Computer Architecture, High Performance Computing
 * **Programming languages:** C, C++, Cuda C, Java, PHP, MySQL, LaTeX
