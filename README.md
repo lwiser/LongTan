@@ -1,5 +1,4 @@
 ## EDUCATION BACKGROUD
-```
 Institute of Computing Technology, Chinese Academy of Sciences （Beijing, China） 
 
 
@@ -19,7 +18,7 @@ Bachelor in Internet of Things Aug 2013 - Jun 2017
 Overall GPA: 3.69/4.00 (Academic Ranking: 7/68)
 Relevant Courses: Complex Analysis and Integral Transform(95), Mathematical Analysis (91), Discrete Mathematics(87), Principle of
 Microcomputer and Interface Technology (97), Digital Electronic Technology (94), Computer Network(92), Data Structure (88)
-```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
