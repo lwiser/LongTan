@@ -11,7 +11,7 @@ Architecture(85), Advanced Artificial Intelligence(81)
 Microcomputer and Interface Technology (97), Digital Electronic Technology (94), Computer Network(92), Data Structure (88)
 
 ### SKILLS & INTERESTS
-* **Interests:** Distributed Systems, Computer Architecture, High Performance Computing
+* **Interests:** Distributed System, Computer Architecture, High Performance Computing
 * **Programming languages:** C, C++, Cuda C, PHP, MySQL, LaTeX
 * **Libraries:** OpenMp, MPI
 * **Languages:** CET-6, CET-4
