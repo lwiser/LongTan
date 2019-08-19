@@ -19,12 +19,12 @@ Microcomputer and Interface Technology (97), Digital Electronic Technology (94),
 ### RESEARCH EXPERIENCE
 #### Institute of Computing Technology, Chinese Academy of Sciences (Beijing, China)
 Graph500 BFS Algorithm Optimization (Mar 2019 - Present)
-* Optimized BFS algorithm based on Kronecker graph to increase the traversal edges per second(TEPS)
-* Achieved 50 GTEPS on graph with scale 28, utilizing 4-way Xeon 8160 Server
-* Proposed two main approches for single-node cpu(numa architecture)
-  * round-robin vertex shuffle to improve **load balancing among threads and numa nodes (1.5 times speed up)**
-  * bitmap jump-access to **avoid unnecessary accessing** of bitmap in the bottom-up step
-* Devised a 1D data decomposition approach for distributed BFS algorithm and compressed integar using varint to reduce
+* Optimized BFS algorithm based on Kronecker graph to increase the traversed edges per second(TEPS)
+* Achieved 50 GTEPS on graph with scale 30, utilizing 4-way Xeon Server (12.8 times speed up)
+* Proposed two main approches for distributed cluster and single cpu (numa architecture):
+  * **round-robin vertex shuffle** to improve load balancing of threads and nodes (1.5 times speed up)
+  * **bitmap jump-access** to avoid unnecessary accessing of bitmap in the bottom-up step (1.2 times speed up)
+* Devised a 1D data decomposition approach for distributed BFS algorithm and **compressed integar using varint** to reduce
 communication overhead among cluster nodes
 
 #### Institute of Computing Technology, Chinese Academy of Sciences (Beijing, China)
