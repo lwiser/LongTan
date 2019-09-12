@@ -11,8 +11,8 @@ Architecture(85), Advanced Artificial Intelligence(81)
 Microcomputer and Interface Technology (97), Digital Electronic Technology (94), Computer Network(92), Data Structure (88)
 
 ### SKILLS & INTERESTS
-* **Interests:** Distributed System, Computer Architecture, High Performance Computing
-* **Programming languages:** C, C++, Cuda C, PHP, MySQL, LaTeX
+* **Interests:** Computer Architecture, High Performance Computing, Distributed System
+* **Programming languages:** C, C++, Cuda C, Java, LaTeX
 * **Libraries:** OpenMp, MPI
 * **Languages:** CET-6, CET-4
 
@@ -24,7 +24,7 @@ Graph500 BFS Algorithm Optimization (Mar 2019 - Present)
 * Proposed two main approches for distributed cluster and single cpu (numa architecture):
   * **round-robin vertex shuffle** to improve load balancing of threads and nodes (1.5 times speed up)
   * **bitmap jump-access** to avoid unnecessary accessing of bitmap in the bottom-up step (1.2 times speed up)
-* Devised a 1D data decomposition approach for distributed BFS algorithm and **compressed integar using varint** to reduce
+* Decomposed data structure to ensure data locality for distributed BFS algorithm and **compressed integar using varint** to reduce
 communication overhead among cluster nodes
 
 #### Institute of Computing Technology, Chinese Academy of Sciences (Beijing, China)
